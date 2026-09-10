@@ -1,5 +1,4 @@
 # orangehrm-test-qa
-Proyecto de QA Automation sobre OrangeHRM utilizando Selenium IDE y Cypress para la creación y ejecución de pruebas funcionales web.
 # OrangeHRM – QA Automation
 
 Proyecto de práctica de **Quality Assurance (QA)** enfocado en la automatización de pruebas sobre la aplicación web demo **OrangeHRM**.
